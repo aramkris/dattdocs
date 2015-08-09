@@ -12,7 +12,7 @@ Datt is a content platform. We will not be publisher(s) of content as this can l
 
 **1.  What are we appealing to? **
 
-    a. Where is the value transfer?
+    # a. Where is the value transfer?
 
     The value starts with the users consuming content and if the benefit is direct then the value of the network increases and the domino effect continues till the creator.
 
